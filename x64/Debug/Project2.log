@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Account.cpp
+  Transaction.cpp
+  Generating Code...
+C:\Users\MahdiOTET\Desktop\Project2\sourceFiles\Account.cpp(27): warning C4715: 'Account::getAccountStatus': not all control paths return a value
+C:\Users\MahdiOTET\Desktop\Project2\sourceFiles\Account.cpp(52): warning C4715: 'Account::getStringAccountStatus': not all control paths return a value
+C:\Users\MahdiOTET\Desktop\Project2\sourceFiles\Account.cpp(64): warning C4715: 'Account::getStringAccountType': not all control paths return a value
+C:\Users\MahdiOTET\Desktop\Project2\sourceFiles\Account.cpp(40): warning C4715: 'Account::getAccountType': not all control paths return a value
+  Project2.vcxproj -> C:\Users\MahdiOTET\Desktop\Project2\x64\Debug\bin\Project2.exe
